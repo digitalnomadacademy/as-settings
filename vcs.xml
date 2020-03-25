@@ -90,6 +90,10 @@
           <option name="url" value="https://github.com/digitalnomadacademy/dart-playgrounds.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/digitalnomadacademy/git_example_2.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Work/dna" />
